@@ -22,8 +22,7 @@ public class Persona {
     }
 
     // Constructor con parámetros
-    public Persona
-    (String rut, String nombre, String telefono, Direccion direccion) {
+    public Persona (String rut, String nombre, String telefono, Direccion direccion) {
         this.rut = rut;
         this.nombre = nombre;
         this.telefono = telefono;
