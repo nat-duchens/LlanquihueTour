@@ -52,7 +52,7 @@ public class Direccion {
         this.region = region;
     }
 
-    // Override 
+    // Override del método toString() para mostrar información de la dirección
     @Override
     public String toString() {
         return calle + ", " + ciudad + ", " + region; 

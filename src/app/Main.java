@@ -28,7 +28,7 @@ public class Main {
         Direccion direccion3 = new Direccion("Calle Ramitas 456", "Puerto Varas", "Los Lagos");
         Empleado empleado2 = new Empleado("98.765.432-1", "María González", "+56987654333", direccion3, "Recepcionista", 600000);   
 
-    // Resultados por consola con  System.out.println() y toString()
+        // Resultados por consola con  System.out.println() y toString()
         System.out.println("~~ REGISTRO N°1: CONTACTO GENERAL ~~");
         System.out.println(persona1.toString());
 
